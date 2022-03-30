@@ -1,14 +1,15 @@
 
 ### Namaste :pray:
 
-I am **Aashish Chapain**, a passionate Software Developer aside in Nepal.
+I am **Aashish Chapain**, a passionate Software Developer and pythonist aside in Nepal.
+Love to talk about tech, movies, cosmic science and music.
 
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working on my own projects
 
 - :seedling: Exploring Various Frontend and Backend Technologies
 
-- :zap: In my free time, I read books and blogs.
+- :zap: In my free time, I read books and write blogs.
 
 ### Tools and Technologies:
 <div>
@@ -31,6 +32,9 @@ I am **Aashish Chapain**, a passionate Software Developer aside in Nepal.
   <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+     <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Youtube Badge"/>
