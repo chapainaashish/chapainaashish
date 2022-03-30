@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="200" height="210" align="center"/>
+  <img src="https://media.giphy.com/media/iOdhk1BSNJ7PsQRUN3/giphy.gif" align="center" height="200" width="400"/>
 </div>
 
 ### Namaste :pray:
