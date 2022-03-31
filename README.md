@@ -10,7 +10,7 @@ Love to talk about tech, movies, cosmic science and music.
 
 - :telescope: I’m working on my own projects
 
-- :seedling: Exploring Various Frontend and Backend Technologies
+- :seedling: I am currently learning HTML and CSS frameworks.
 
 - :zap: In my free time, I read books and write blogs.
 
