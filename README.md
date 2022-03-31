@@ -26,11 +26,14 @@ Love to talk about tech, movies, cosmic science and music.
    <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Archlinux-vert-dark.svg" title="arch"  alt="arch" width=auto height="35"/>&nbsp;
 </div>
   
-  
+
 ### My Stats :
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chapainaashish&theme=dark&background=000000)](https://git.io/streak-stats)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chapainaashish&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <img src="https://komarev.com/ghpvc/?username=chapainaashish&style=flat-square&color=blue" alt=""
+ </div>
 
   ### Connect with me:
   <div id="badges">
