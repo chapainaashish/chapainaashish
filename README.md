@@ -1,5 +1,5 @@
 <div id="header">
-  <img src="https://media.giphy.com/media/iOdhk1BSNJ7PsQRUN3/giphy.gif" align="center" height="200" width="400"/>
+  <img src="https://media.giphy.com/media/iOdhk1BSNJ7PsQRUN3/giphy.gif"/>
 </div>
 
 ### Namaste :pray:
@@ -21,6 +21,7 @@ Love to talk about tech, movies, cosmic science and music.
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
    <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Archlinux-vert-dark.svg" title="arch"  alt="arch" width=auto height="35"/>&nbsp;
@@ -32,7 +33,7 @@ Love to talk about tech, movies, cosmic science and music.
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chapainaashish&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <div>
-  <img src="https://komarev.com/ghpvc/?username=chapainaashish&style=flat-square&color=blue" alt=""
+  <img src="https://komarev.com/ghpvc/?username=chapainaashish&style=for-the-badge&color=green" alt="Profile view"
  </div>
 
   ### Connect with me:
