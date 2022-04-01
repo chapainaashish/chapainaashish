@@ -1,5 +1,5 @@
 <div id="header">
-  <img src="https://media.giphy.com/media/iOdhk1BSNJ7PsQRUN3/giphy.gif"/>
+  <img src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif"/>
 </div>
 
 ### Namaste :pray:
