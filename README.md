@@ -1,18 +1,15 @@
-<div id="header">
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif"/>
 </div>
 
-### Namaste :pray:
-
-I am **Aashish Chapain**, a passionate Software Developer and pythonist aside in Nepal.
-Love to talk about tech, movies, cosmic science and music.
+<h1 align="center">Hi, I'm Aashish<img src="https://raw.githubusercontent.com/danndigital/debbie-portfolio-2021/28bef52c5fec2ddbbcd1462246f081213cec2582/public/images/sparkle.svg" width="35px" alt="sparkle" /></h1>
 
 
-- :telescope: I’m working on my own projects
+- :seedling: Currently learning HTML and CSS frameworks.
 
-- :seedling: I am currently learning HTML and CSS frameworks.
+- :stars: Love cosmic science and motion pictures.
 
-- :zap: In my free time, I read books and write blogs.
+- :open_book: In my free time, I read books and write blogs.
 
 ### Tools and Technologies:
 <div>
