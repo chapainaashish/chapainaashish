@@ -21,7 +21,7 @@
      <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Archlinux-vert-dark.svg" title="arch"  alt="arch" width=auto height="35"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
 </div>
   
 
