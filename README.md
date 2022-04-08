@@ -9,7 +9,7 @@
 
 - :stars: Love cosmic science and motion pictures.
 
-- :open_book: In my free time, just realized I got no free time:D
+- :clock230: In my free time, just realized I got no free time:D
 
 ### Tools and Technologies:
 <div>
