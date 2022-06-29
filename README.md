@@ -8,7 +8,7 @@
 
 - :seedling: Currently learning Javascript.
 
-- :stars: Love cosmic science and motion pictures.
+- :stars: Love cosmic science and motion picture.
 
 - :clock230: In my free time, just realized I got no free time:D
 
