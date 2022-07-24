@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/danndigital/debbie-portfolio-2021/28bef52c5fec2ddbbcd1462246f081213cec2582/public/images/sparkle.svg" width="35px" alt="sparkle" />
 </h1>
 
-- :seedling: Currently learning Javascript.
+- :seedling: Currently learning JS and Java.
 
 - :stars: Love cosmic science and motion picture.
 
