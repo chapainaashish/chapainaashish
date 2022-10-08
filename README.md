@@ -6,9 +6,9 @@
   <img src="https://raw.githubusercontent.com/danndigital/debbie-portfolio-2021/28bef52c5fec2ddbbcd1462246f081213cec2582/public/images/sparkle.svg" width="35px" alt="sparkle" />
 </h1>
 
-- :seedling: Currently learning JS and Java.
+- :seedling: Currently learning Django and DRF.
 
-- :stars: Love cosmic science and motion picture.
+- :stars: Love cosmic science, motion picture and rock genre
 
 - :clock230: In my free time, just realized I got no free time:D
 
