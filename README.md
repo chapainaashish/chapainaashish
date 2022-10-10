@@ -8,7 +8,7 @@
 
 - :seedling: Currently learning Django and DRF.
 
-- :stars: Love cosmic science, motion picture and rock genre
+- :stars: Love cosmic science, motion picture and old rock music
 
 - :clock230: In my free time, just realized I got no free time:D
 
