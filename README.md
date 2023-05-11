@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Aashish Chapain
+<h1>Hi, I'm Aashish Chapain
   <img src="https://raw.githubusercontent.com/danndigital/debbie-portfolio-2021/28bef52c5fec2ddbbcd1462246f081213cec2582/public/images/sparkle.svg" width="35px" alt="sparkle" />
 </h1>
 
