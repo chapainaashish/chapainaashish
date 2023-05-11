@@ -5,11 +5,11 @@
 * 👷 Creator of <a href='https://sociobytes.com'>Sociobytes</a> and <a href='https://geekydocs.com'>Geekydocs.</a>
 
 
-**Read my recent blog ✍️**
+<h3>Read my recent blog ✍️</h3>
 
 * <a href='https://geekydocs.com/blog/deploying-your-django-application-in-cpanel'> Deploying your django application in Cpanel </a>
 
-**Tools and Technologies**
+<h3>Tools and Technologies </h3>
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -30,7 +30,7 @@
                                                                                                                                               <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="40" height="40"/>
 </div>                                                                                                                                              
 
-**Stats**
+<h3>Stats</h3>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chapainaashish&theme=dark&background=000000)](https://git.io/streak-stats)
 
@@ -40,7 +40,7 @@
   <img src="https://komarev.com/ghpvc/?username=chapainaashish&style=for-the-badge&color=green" alt="Profile view"
 </div>
 
-**Connect with me**
+<h3>Connect with me</h3>
 
 <div id="badges">
     <a href="https://sociobytes.com/aashish">
