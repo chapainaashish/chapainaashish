@@ -7,6 +7,9 @@
 
 <h3>Read my recent blog ✍️</h3>
 
+* <a href='https://geekydocs.com/blog/continoues-deployment-with-github-action'>CI workflow with Github action </a>
+
+
 * <a href='https://geekydocs.com/blog/deploying-your-django-application-in-cpanel'> Deploying your django application in Cpanel </a>
 
 <h3>Tools and Technologies </h3>
