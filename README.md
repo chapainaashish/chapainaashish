@@ -1,14 +1,9 @@
 <h1 >Hi, I'm Aashish Chapain 👋
 </h1>
 
-* 💻 A backend developer specialized in Python and TypeScript
-* 👷 Creator of <a href='https://sociobytes.com'>Sociobytes</a> and <a href='https://geekydocs.com'>Geekydocs</a>
-
+I am a Software Engineer from Pokhara, Nepal, with 3 years of experience in developing quality software. I have worked with different people and organization to solve the personal and business problems with technology.
 
 <h3>Read my recent blog ✍️</h3>
-
-* <a href='https://geekydocs.com/blog/continoues-deployment-with-github-action'>CI workflow with Github action </a>
-
 
 * <a href='https://geekydocs.com/blog/deploying-your-django-application-in-cpanel'> Deploying your django application in Cpanel </a>
 
