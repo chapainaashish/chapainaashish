@@ -9,8 +9,8 @@ I'm a Software Engineer from Pokhara, Nepal, with experience of building web app
 
 ### Read my recent blog 
 
-* [Observability in AI Applications](https://geekydocs.com/) - Practical guide on monitoring and debugging AI systems in production
-* [Think Before You Call LLM API](https://geekydocs.com/) - Cost optimization and architectural decision-making for LLM integration
+* [Observability in AI Applications](https://blog.chapainaashish.com.np/observability-in-ai-application) - Practical guide on monitoring and debugging AI systems in production
+* [Think Before You Call LLM API](https://blog.chapainaashish.com.np/think-before-you-call-llm-api/) - Cost optimization and architectural decision-making for LLM integration
 
 ### Tools and Technologies
 
