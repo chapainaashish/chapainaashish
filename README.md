@@ -1,12 +1,6 @@
 # Hi, I'm Aashish Chapain 👋
 
-I'm a Software Engineer from Pokhara, Nepal, with experience of building web applications and AI-powered solutions. Currently working at Inflowsheet LLC developing enterprise tax processing platforms with AI document intelligence.
-
-### What I'm Working On
-- Building enterprise tax processing systems with Python and Azure AI Services
-- Developing AI document intelligence pipelines using custom trained models and Azure Document Intelligence
-- Integrating DocuSign APIs for automated document workflows
-
+I'm a Software Engineer from Pokhara, Nepal, with experience of building web applications and AI-powered solutions. 
 ### Read my recent blog 
 
 * [Observability in AI Applications](https://blog.chapainaashish.com.np/observability-in-ai-application) - Practical guide on monitoring and debugging AI systems in production
