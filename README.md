@@ -63,9 +63,6 @@ I'm a Software Engineer from Pokhara, Nepal, with experience of building web app
   <a href="https://chapainaashish.com.np">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
   </a>
-  <a href="mailto:ashischapain86@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
   <a href="https://www.facebook.com/chapainaashish">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
