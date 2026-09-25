@@ -1,10 +1,15 @@
-# Hi, I'm Aashish Chapain 👋
+# Hi, I'm Aashish Chapain <img src="https://komarev.com/ghpvc/?username=chapainaashish&style=plastic&color=blue" alt="Profile view"/>
 
-I'm a Software Engineer from Pokhara, Nepal, with experience of building web applications and AI-powered solutions. 
-### Read my recent blog 
+
+I'm a Software Engineer (at least that's what people call me). I love tinkering around with computers and the software inside them, mostly out of curiosity. I recently realized I've been doing this for almost 5 years and I don't see myself stopping anytime soon.
+
+I hope to see you in the commit history someday
+
+### Read my recent blog(In case you’re free)
+
+* [Reasoning Patterns in LLM](https://blog.chapainaashish.com.np/reasoning-patterns-in-llm-cot-react) - Understanding Chain-of-Thought and ReAct reasoning patterns for solving complex tasks with LLMs
 
 * [Observability in AI Applications](https://blog.chapainaashish.com.np/observability-in-ai-application) - Practical guide on monitoring and debugging AI systems in production
-* [Think Before You Call LLM API](https://blog.chapainaashish.com.np/think-before-you-call-llm-api/) - Cost optimization and architectural decision-making for LLM integration
 
 ### Tools and Technologies
 
@@ -40,14 +45,6 @@ I'm a Software Engineer from Pokhara, Nepal, with experience of building web app
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
 </div>
 
-### Stats
-![](https://github-readme-stats.vercel.app/api?username=chapainaashish&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=chapainaashish&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chapainaashish&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<div>
-  <img src="https://komarev.com/ghpvc/?username=chapainaashish&style=for-the-badge&color=green" alt="Profile view"/>
-</div>
 
 <!-- [![committers.top badge](https://user-badge.committers.top/nepal_public/chapainaashish.svg)](https://user-badge.committers.top/nepal_public/chapainaashish) -->
 
