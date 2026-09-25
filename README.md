@@ -7,7 +7,9 @@ I hope to see you in the commit history someday.
 
 ### Recent Writings
 
-* [Reasoning Patterns in LLM](https://blog.chapainaashish.com.np/reasoning-patterns-in-llm-cot-react) - Understanding Chain-of-Thought and ReAct reasoning patterns for solving complex tasks with LLMs
+* [Reasoning Patterns in LLM](https://blog.chapainaashish.com.np/reasoning-patterns-in-llm-cot-react) - Understand Chain-of-Thought and ReAct reasoning patterns for solving complex tasks with LLMs
+  
+* [Embeddings in RAG](https://blog.chapainaashish.com.np/embeddings-in-rag-the-core-of-semantic-search) - Guide for embeddings, chunking, vector similarity, and model selection for production RAG systems
 
 * [Observability in AI Applications](https://blog.chapainaashish.com.np/observability-in-ai-application) - Practical guide on monitoring and debugging AI systems in production
 
