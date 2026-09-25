@@ -1,9 +1,9 @@
 # Hi, I'm Aashish Chapain <img src="https://komarev.com/ghpvc/?username=chapainaashish&style=plastic&color=blue" alt="Profile view"/>
 
 
-I'm a Software Engineer (at least that's what people call me). I love tinkering around with computers and the software inside them, mostly out of curiosity. I recently realized I've been doing this for almost 5 years and I don't see myself stopping anytime soon.
+I'm a Software Engineer by profession. I love tinkering around with computers and the software inside them, mostly out of curiosity. I recently realized I've been doing this for almost 2 years and I don't see myself stopping anytime soon.
 
-I hope to see you in the commit history someday.
+I hope to meet you in the commit history someday.
 
 ### Recent Writings
 
