@@ -5,7 +5,7 @@ I'm a Software Engineer (at least that's what people call me). I love tinkering 
 
 I hope to see you in the commit history someday.
 
-### Read my recent blog(In case you’re free)
+### Recent Writings
 
 * [Reasoning Patterns in LLM](https://blog.chapainaashish.com.np/reasoning-patterns-in-llm-cot-react) - Understanding Chain-of-Thought and ReAct reasoning patterns for solving complex tasks with LLMs
 
@@ -41,21 +41,16 @@ I hope to see you in the commit history someday.
 </div>
 
 
-<!-- [![committers.top badge](https://user-badge.committers.top/nepal_public/chapainaashish.svg)](https://user-badge.committers.top/nepal_public/chapainaashish) -->
-
-### Connect with me
+### Let's Connect
 
 <div id="badges">
-    <a href="https://sociobytes.com/aashish">
-    <img src="https://img.shields.io/badge/Sociobytes-blue?style=for-the-badge&logo=none&logoColor=white" alt="Sociobytes"/>
-  </a>
   <a href="https://www.linkedin.com/in/chapainaashish/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://chapainaashish.com.np">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/chapainaashish">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://sociobytes.com/aashish">
+    <img src="https://img.shields.io/badge/Sociobytes-blue?style=for-the-badge&amp;logoColor=white" alt="Sociobytes Badge"/>
   </a>
 </div>
