@@ -1,4 +1,5 @@
-# Hi, I'm Aashish Chapain <img src="https://komarev.com/ghpvc/?username=chapainaashish&style=plastic&color=blue" alt="Profile view"/>
+# Hi, I'm Aashish Chapain 
+<!-- <img src="https://komarev.com/ghpvc/?username=chapainaashish&style=plastic&color=blue" alt="Profile view"/> -->
 
 
 I'm a Software Engineer by profession. I love to tinker, build, tweak and occasionally break software, mostly out of curiosity. I recently realized I've been doing this for almost 5 years, and I don't see myself stopping anytime soon.
