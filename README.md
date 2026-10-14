@@ -2,7 +2,7 @@
 <!-- <img src="https://komarev.com/ghpvc/?username=chapainaashish&style=plastic&color=blue" alt="Profile view"/> -->
 
 
-I'm a Software Engineer by profession. I love to tinker, build, tweak and occasionally break software, mostly out of curiosity. I recently realized I've been doing this for almost 5 years, and I don't see myself stopping anytime soon.
+I'm a software engineer from Nepal. I loves tinkering, building, tweaking, and doing a million other things with software, mostly out of curiosity. I recently realized I've been at it for almost five years, and I don't see myself stopping anytime soon.
 
 I hope to meet you in the commit history someday.
 
